@@ -65,5 +65,4 @@ int main(void)
         printf("Employee salary 4.20 is NOT found in the record\n");
 
     return EXIT_SUCCESS; 
-
 }
