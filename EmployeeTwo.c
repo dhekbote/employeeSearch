@@ -1,5 +1,5 @@
 #include <string.h> 
-#include "employee.h" 
+#include "Employee.h" 
 
 //NOTE: 5 functions have been defined below 
 //ptr - points to table to be searched 
